@@ -1,0 +1,12 @@
+{
+  "name": "mmmanyfold/blog",
+  "authors": [
+    {
+      "name": "dviramontes",
+      "email": "dviramontes@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.4"
+  }
+}
