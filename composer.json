@@ -8,5 +8,10 @@
   ],
   "require": {
     "php": ">=5.2.4"
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "chmod -R 777 wp-content"
+    ]
   }
 }
